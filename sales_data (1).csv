@@ -1,0 +1,13 @@
+Month,Product,Units Sold,Unit Price,Revenue
+Jan,Phones,120,50,6000
+Jan,Accessories,200,30,6000
+Feb,Phones,150,50,7500
+Feb,Accessories,260,28,7280
+Mar,Phones,180,48,8640
+Mar,Accessories,310,27,8370
+Apr,Phones,220,45,9900
+Apr,Accessories,380,25,9500
+May,Phones,260,43,11180
+May,Accessories,450,24,10800
+Jun,Phones,300,40,12000
+Jun,Accessories,520,22,11440
